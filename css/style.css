@@ -1,0 +1,37 @@
+body{
+font-family: 'Libre Baskerville', serif;
+}
+
+.navbar-brand{
+	text-transform: uppercase;
+	color:#F0FFFF;
+}
+
+.navbar{
+	background: #0A2D8B;
+}
+
+.jumbotron{
+	background-image: url('../img/coding.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: 0 - 100px;
+	color: #eaeaea;
+	
+}
+.jumbotron h1, .jumbotron p{
+	text-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+}
+.about{
+	background:	#5F9EA0;
+}
+.portofolio{
+	background:#20B2AA;
+	}
+hr{
+	width: 250px;
+	border: 3px solid #191970;
+}
+#contac{
+	background:#008080;
+}

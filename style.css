@@ -1,0 +1,53 @@
+body{
+font-family: 'Libre Baskerville', serif;
+}
+
+nav, nav a{
+	text-transform: uppercase;
+	color:#F0FFFF;
+}
+
+nav a.active{
+	color: #475CDF;
+	font-weight: bold;
+}
+nav a:hover{
+	color:#475CDF;
+
+}
+nav h5{
+	font-weight: bold;
+
+}
+.main{
+	color: white;
+}
+.main h1{
+	font-weight: 400;
+
+}
+.main h1 span{
+	font-weight: bold;
+	color:#475CDF;
+}
+.main button{
+	background-color: #FF4887;
+	color:white;
+	margin-top: 20px;
+}
+.card-body{
+	color: #475CDF;
+	font-weight: bold;
+	margin-top: 4px;
+
+}
+/*.card-body{
+	position: relative;
+	overflow: hidden;
+}
+.bg-img{
+	position: relative;
+	bottom: -45%;
+	right: -60px;
+	width: 30%;
+}*/
